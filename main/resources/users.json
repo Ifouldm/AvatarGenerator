@@ -1,0 +1,14 @@
+{
+  "Users": [
+    {"username": "Fred",
+      "age": 20,
+      "website": "http://website.com"
+    },
+    {"username": "Dave",
+      "website": "http://altwebsite.com"},
+    {"username": "Estaban"},
+    {"username": "George"},
+    {"username": "Namethatisreallylong"},
+    {"username": "Matthew"}
+]
+}
