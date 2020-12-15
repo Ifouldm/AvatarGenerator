@@ -8,7 +8,7 @@ A simple png avatar generator. Given the resources within the resource folder (f
 
 ## Images
 
-![app](https://i.imgur.com/ja3Lxju.png "Avatar generator application") ![Gallary](https://i.imgur.com/ojZhy2Z.png "Gallery image")
+![app](https://i.imgur.com/ja3Lxju.png "Avatar generator application") ![Gallery](https://i.imgur.com/ojZhy2Z.png "Gallery image")
 
 ## Run Application
 
